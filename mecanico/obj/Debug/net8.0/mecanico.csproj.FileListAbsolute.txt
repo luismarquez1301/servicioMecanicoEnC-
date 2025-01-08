@@ -1,0 +1,14 @@
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\bin\Debug\net8.0\mecanico.exe
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\bin\Debug\net8.0\mecanico.deps.json
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\bin\Debug\net8.0\mecanico.runtimeconfig.json
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\bin\Debug\net8.0\mecanico.dll
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\bin\Debug\net8.0\mecanico.pdb
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\mecanico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\mecanico.AssemblyInfoInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\mecanico.AssemblyInfo.cs
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\mecanico.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\mecanico.dll
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\refint\mecanico.dll
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\mecanico.pdb
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\mecanico.genruntimeconfig.cache
+C:\Users\luis_\OneDrive\Escritorio\Final POO\mecanico\obj\Debug\net8.0\ref\mecanico.dll
